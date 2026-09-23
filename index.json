@@ -117,7 +117,7 @@
 		"1020099": {
 			"classmap": {
 				"file": "classmap-19f856aefd5.json",
-				"sha256": "33fca18a6d319bd9f455426517b6aaefe5e86d7d379933f21b1f1807ae9ed4d5"
+				"sha256": "f2125fdffc5509952410f9e99c5e43d460cb3ed77cb8e4487468b1ab99eba711"
 			},
 			"cssMapOverlay": {
 				"file": "css-map.json",
@@ -125,7 +125,7 @@
 			},
 			"meta": {
 				"file": "META.json",
-				"sha256": "c38e1dbf9bb63abf0983d7f563482d778fdeefd230ef0906ce999f62cd3b8e1c"
+				"sha256": "2a9f47de581fc8b00aaebdf3c470ecd6ff928a27185c72350e9e454294da3584"
 			},
 			"spotifyVersion": "1.2.99.317",
 			"status": "verified"

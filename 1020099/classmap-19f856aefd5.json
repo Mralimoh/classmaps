@@ -4,13 +4,13 @@
       "wrapper": "oy96nRTKcIs7wm5K",
       "left": {
         "button": {
-          "wrapper": "e-10810-legacy-button e-10810-button-tertiary--icon-only-medium",
+          "wrapper": "e-10810-legacy-button e-10810-button-tertiary--icon-only",
           "icon": {
             "wrapper": "e-10810-icon e-10810-icon--auto-mirror"
           }
         },
         "button_t": {
-          "wrapper": "e-10810-legacy-button e-10810-button-tertiary--icon-only-medium"
+          "wrapper": "e-10810-legacy-button e-10810-button-tertiary--icon-only"
         }
       },
       "right": {
@@ -80,10 +80,10 @@
   },
   "settings": {
     "header": {
-      "container": "fEEfljGMIEhhmWVi"
+      "container": "x-settings-outputSectionHeader"
     },
     "section": {
-      "container": "nWR7PbHjFXQJiYNL"
+      "container": "x-settings-section"
     },
     "button": {
       "wrapper": "e-10810-legacy-button e-10810-legacy-button--small e-10810-legacy-button-secondary"
@@ -101,7 +101,7 @@
   },
   "search_box": {
     "container": "main-globalNav-searchContainer",
-    "expand_button": "e-10810-legacy-button e-10810-button-tertiary--icon-only-medium main-globalNav-link-icon"
+    "expand_button": "e-10810-legacy-button e-10810-button-tertiary--icon-only main-globalNav-link-icon"
   },
   "context_menu": {
     "menu_item": "main-contextMenu-menuItemButton"
